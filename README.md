@@ -755,6 +755,10 @@ require('@unicode/unicode-4.1.0/Script/Ugaritic/code-points.js');
 require('@unicode/unicode-4.1.0/Script/Ugaritic/symbols.js');
 require('@unicode/unicode-4.1.0/Script/Ugaritic/regex.js');
 
+require('@unicode/unicode-4.1.0/Script/Unknown/code-points.js');
+require('@unicode/unicode-4.1.0/Script/Unknown/symbols.js');
+require('@unicode/unicode-4.1.0/Script/Unknown/regex.js');
+
 require('@unicode/unicode-4.1.0/Script/Yi/code-points.js');
 require('@unicode/unicode-4.1.0/Script/Yi/symbols.js');
 require('@unicode/unicode-4.1.0/Script/Yi/regex.js');
