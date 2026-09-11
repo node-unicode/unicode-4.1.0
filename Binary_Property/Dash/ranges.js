@@ -1,1 +1,0 @@
-module.exports=require('../../decode-ranges.js')('gtAwVbAxJ6AwgIFg8AgmAOAmFAwwDAoDASAhuA4M2PBgkAJAioA')
