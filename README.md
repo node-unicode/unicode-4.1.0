@@ -403,9 +403,9 @@ import RadicalCodePoints from '@unicode/unicode-4.1.0/Binary_Property/Radical/co
 import RadicalSymbols from '@unicode/unicode-4.1.0/Binary_Property/Radical/symbols.mjs';
 import RadicalRegex from '@unicode/unicode-4.1.0/Binary_Property/Radical/regex.mjs';
 
-import STermCodePoints from '@unicode/unicode-4.1.0/Binary_Property/STerm/code-points.mjs';
-import STermSymbols from '@unicode/unicode-4.1.0/Binary_Property/STerm/symbols.mjs';
-import STermRegex from '@unicode/unicode-4.1.0/Binary_Property/STerm/regex.mjs';
+import Sentence_TerminalCodePoints from '@unicode/unicode-4.1.0/Binary_Property/Sentence_Terminal/code-points.mjs';
+import Sentence_TerminalSymbols from '@unicode/unicode-4.1.0/Binary_Property/Sentence_Terminal/symbols.mjs';
+import Sentence_TerminalRegex from '@unicode/unicode-4.1.0/Binary_Property/Sentence_Terminal/regex.mjs';
 
 import Soft_DottedCodePoints from '@unicode/unicode-4.1.0/Binary_Property/Soft_Dotted/code-points.mjs';
 import Soft_DottedSymbols from '@unicode/unicode-4.1.0/Binary_Property/Soft_Dotted/symbols.mjs';
@@ -760,10 +760,6 @@ import TifinaghRegex from '@unicode/unicode-4.1.0/Script/Tifinagh/regex.mjs';
 import UgariticCodePoints from '@unicode/unicode-4.1.0/Script/Ugaritic/code-points.mjs';
 import UgariticSymbols from '@unicode/unicode-4.1.0/Script/Ugaritic/symbols.mjs';
 import UgariticRegex from '@unicode/unicode-4.1.0/Script/Ugaritic/regex.mjs';
-
-import UnknownCodePoints from '@unicode/unicode-4.1.0/Script/Unknown/code-points.mjs';
-import UnknownSymbols from '@unicode/unicode-4.1.0/Script/Unknown/symbols.mjs';
-import UnknownRegex from '@unicode/unicode-4.1.0/Script/Unknown/regex.mjs';
 
 import YiCodePoints from '@unicode/unicode-4.1.0/Script/Yi/code-points.mjs';
 import YiSymbols from '@unicode/unicode-4.1.0/Script/Yi/symbols.mjs';
@@ -1188,6 +1184,10 @@ import MyanmarRegex from '@unicode/unicode-4.1.0/Block/Myanmar/regex.mjs';
 import New_Tai_LueCodePoints from '@unicode/unicode-4.1.0/Block/New_Tai_Lue/code-points.mjs';
 import New_Tai_LueSymbols from '@unicode/unicode-4.1.0/Block/New_Tai_Lue/symbols.mjs';
 import New_Tai_LueRegex from '@unicode/unicode-4.1.0/Block/New_Tai_Lue/regex.mjs';
+
+import No_BlockCodePoints from '@unicode/unicode-4.1.0/Block/No_Block/code-points.mjs';
+import No_BlockSymbols from '@unicode/unicode-4.1.0/Block/No_Block/symbols.mjs';
+import No_BlockRegex from '@unicode/unicode-4.1.0/Block/No_Block/regex.mjs';
 
 import Number_FormsCodePoints from '@unicode/unicode-4.1.0/Block/Number_Forms/code-points.mjs';
 import Number_FormsSymbols from '@unicode/unicode-4.1.0/Block/Number_Forms/symbols.mjs';
